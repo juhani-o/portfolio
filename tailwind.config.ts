@@ -11,6 +11,9 @@ const config: Config = {
   ],
   daisyui: {
     themes: ["retro"],
+  },
+  corePlugins: {
+    fontFamily: false,
   }
 };
 export default config;
